@@ -1,0 +1,30 @@
+/* Emma Creager 4/16/22 */
+
+body{
+    background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../images/img/my\ image.jpg"); alt: "Leaf Background";
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+
+.header{
+    padding: 30px;
+    text-align: center;
+    background-color: darksalmon;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+.footer{
+    padding: 5px;
+    text-align:left;
+    background-color: darksalmon;
+    font-size: 20px
+}
+
+.title{
+    background-color: rgb(255,211,182);
+    font-size: 20px;
+    text-transform: uppercase;
+}

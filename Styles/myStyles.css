@@ -1,0 +1,24 @@
+/* Emma Creager 4/11/22- My Styles Sheet */
+
+body {
+    background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../images/img/my\ image.jpg"); alt: "Leaf Background";
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+  }
+
+.myfooter{
+    background-color: darksalmon;
+  }
+
+.anchor{
+    color: rgb(255, 211, 182);
+}
+
+.vidBackground{
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    background-color: rgb(255, 211, 182);
+}
